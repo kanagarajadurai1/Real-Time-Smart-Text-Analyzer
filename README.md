@@ -56,7 +56,4 @@ smart-text-analyzer/
 5️⃣ The **progress bar visually represents** how much of the character limit is used.
 
 ---
-
-## ▶️ How to Run the Project
-
-1. Clone the repository
+Link : []
