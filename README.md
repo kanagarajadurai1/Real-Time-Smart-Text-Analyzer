@@ -56,4 +56,4 @@ smart-text-analyzer/
 5️⃣ The **progress bar visually represents** how much of the character limit is used.
 
 ---
-Link : []
+Link : [ https://kanagarajadurai1.github.io/Real-Time-Smart-Text-Analyzer/]
